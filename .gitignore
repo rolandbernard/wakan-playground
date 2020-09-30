@@ -22,5 +22,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-static/tumble.wasm
-static/tumble.js
+static/wakan.wasm
+static/wakan.js

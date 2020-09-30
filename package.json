@@ -1,11 +1,11 @@
 {
-    "name": "tumble-playground",
-    "description": "Website allowing you to try out tumbleweed in your browser",
+    "name": "wakan-playground",
+    "description": "Website allowing you to try out wakan in your browser",
     "author": "Roland Bernard",
     "license": "MIT",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://rolandbernard.github.io/tumble-playground/",
+    "homepage": "https://rolandbernard.github.io/wakan-playground/",
     "dependencies": {
         "@babel/core": "7.9.0",
         "@svgr/webpack": "4.3.3",

@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/wakan-playground/static/css/main.71254b0a.chunk.css",
+    "main.js": "/wakan-playground/static/js/main.63a1268c.chunk.js",
+    "main.js.map": "/wakan-playground/static/js/main.63a1268c.chunk.js.map",
+    "runtime-main.js": "/wakan-playground/static/js/runtime-main.e14a613f.js",
+    "runtime-main.js.map": "/wakan-playground/static/js/runtime-main.e14a613f.js.map",
+    "static/css/2.fb1a54b1.chunk.css": "/wakan-playground/static/css/2.fb1a54b1.chunk.css",
+    "static/js/2.c2a4e7bc.chunk.js": "/wakan-playground/static/js/2.c2a4e7bc.chunk.js",
+    "static/js/2.c2a4e7bc.chunk.js.map": "/wakan-playground/static/js/2.c2a4e7bc.chunk.js.map",
+    "index.html": "/wakan-playground/index.html",
+    "precache-manifest.41bdd2357776610213f1c74f187c0c7d.js": "/wakan-playground/precache-manifest.41bdd2357776610213f1c74f187c0c7d.js",
+    "service-worker.js": "/wakan-playground/service-worker.js",
+    "static/css/2.fb1a54b1.chunk.css.map": "/wakan-playground/static/css/2.fb1a54b1.chunk.css.map",
+    "static/css/main.71254b0a.chunk.css.map": "/wakan-playground/static/css/main.71254b0a.chunk.css.map",
+    "static/js/2.c2a4e7bc.chunk.js.LICENSE.txt": "/wakan-playground/static/js/2.c2a4e7bc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/wakan-playground/static/media/logo.c6a6a06e.svg",
+    "static/media/index.css": "/wakan-playground/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e14a613f.js",
+    "static/css/2.fb1a54b1.chunk.css",
+    "static/js/2.c2a4e7bc.chunk.js",
+    "static/css/main.71254b0a.chunk.css",
+    "static/js/main.63a1268c.chunk.js"
+  ]
+}

@@ -1,10 +1,8 @@
 
-if [ ! -f static/tumble.wasm ]
+if [ ! -f static/wakan.wasm ]
 then
-    cd build/llvm/ && \
-    bash build-llvm.sh && \
-    cd ../tumble/ && \
+    cd ./build/ && \
     make && \
-    cd ../../ && \
-    cp build/tumble/bin/tumble.* static/
+    cd ../ && \
+    cp build/bin/wakan.* static/
 fi
